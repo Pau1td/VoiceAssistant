@@ -1,0 +1,131 @@
+08-18 12:00:07.508 12416 12448 I TestRunner: started: testSendRecognizerIntent(com.example.voiceassistant.FourthLessonInstrumentedTest)
+08-18 12:00:07.522  1845  2056 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 12:00:07.527  1845  2056 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 12:00:07.527 12416 12448 W ActivityTestRule: getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+08-18 12:00:07.542  2079 12547 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+08-18 12:00:07.549  1781 12522 E ResolverController: No valid NAT64 prefix (100, <unspecified>/0)
+08-18 12:00:07.587  2079  2707 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:07.591  2079  2707 I chatty  : uid=1000(system) Binder:2079_9 identical 38 lines
+08-18 12:00:07.591  2079  2707 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:07.593  2079 12547 W libc    : Unable to set property "qemu.gles" to "1": error code: 0x18
+08-18 12:00:07.598 12416 12416 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@105c36c
+08-18 12:00:07.606  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:07.612  8761  8761 I KeyboardViewHelper: Get view with height ratio:1.000000; experiment height ratio:1.000000.
+08-18 12:00:07.631 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@41aa58 in: PRE_ON_CREATE
+08-18 12:00:07.633  2079 12547 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+08-18 12:00:07.660  2079 12547 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+08-18 12:00:07.666 11002 12104 D eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 0 0
+08-18 12:00:07.690  2079 12547 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+08-18 12:00:07.820  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1486316 , only wrote 1485928
+08-18 12:00:07.852  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1487347 , only wrote 1487250
+08-18 12:00:07.860  2079 12547 D HostConnection: HostConnection::get() New Host Connection established 0xb61d5000, tid 12547
+08-18 12:00:07.860  2079 12547 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-18 12:00:07.921  2079 12547 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-18 12:00:07.921  2079  2101 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:07.922  2079  2101 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-18 12:00:07.922  2079  2101 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:07.946  2079 12547 D eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 0 0
+08-18 12:00:07.950  2079 12547 D EGL_emulation: eglCreateContext: 0xb43e1720: maj 2 min 0 rcv 2
+08-18 12:00:07.965 12457 12457 I TTS.GoogleTTSService: Creating Google TTS service, version 3.17.5.247520352
+08-18 12:00:07.968 12416 12416 I TextToSpeech: Sucessfully bound to com.google.android.tts
+08-18 12:00:07.968 12416 12416 W TextToSpeech: setLanguage failed: not bound to TTS engine
+08-18 12:00:07.971 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@41aa58 in: CREATED
+08-18 12:00:07.979 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@41aa58 in: STARTED
+08-18 12:00:07.980 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@41aa58 in: RESUMED
+08-18 12:00:08.029  2079 12547 D EGL_emulation: eglMakeCurrent: 0xb43e1720: ver 2 0 (tinfo 0xb90dd9e0)
+08-18 12:00:08.039 12416 12416 I TextToSpeech: Connected to ComponentInfo{com.google.android.tts/com.google.android.tts.service.GoogleTTSService}
+08-18 12:00:08.093  2079 12547 D eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 1 0
+08-18 12:00:08.100  8761  8761 I NoticeManager: Posting notice [import_user_contacts] to default priority queue
+08-18 12:00:08.104  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:08.148 12457 12476 I TTS.GoogleTTSServiceImp: For default lang en-us is name en-US-language (en-us-x-sfg-server)
+08-18 12:00:08.167  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1501152 , only wrote 1500470
+08-18 12:00:08.171 12416 12470 I TextToSpeech: Set up connection to ComponentInfo{com.google.android.tts/com.google.android.tts.service.GoogleTTSService}
+08-18 12:00:08.221  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:08.228  8761  8761 I EmojiSearchExtension: Created (instance count = 2)
+08-18 12:00:08.274  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:08.279  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1505399 , only wrote 1504436
+08-18 12:00:08.284 12416 12451 D EGL_emulation: eglMakeCurrent: 0xd601a300: ver 2 0 (tinfo 0xd600f680)
+08-18 12:00:08.318  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1506161 , only wrote 1505758
+08-18 12:00:08.395  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1509141 , only wrote 1509063
+08-18 12:00:08.396  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1509131 , only wrote 1509063
+08-18 12:00:08.424  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1510293 , only wrote 1509724
+08-18 12:00:08.438 11002 12104 D EGL_emulation: eglMakeCurrent: 0xe9154940: ver 2 0 (tinfo 0xb44d2960)
+08-18 12:00:08.493  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+08-18 12:00:08.493  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+08-18 12:00:08.496  8761 12564 I KeyboardGroupDefParser: parseKeyboardGroupDef() 2131296522 -> extension_emoji_search_extension_view : WaitTime = 9 ms : RunTime = 257 ms
+08-18 12:00:08.552  2079  2105 I ActivityTaskManager: Displayed com.example.voiceassistant/.MainActivity: +1s8ms
+08-18 12:00:08.559  2760  3294 D EGL_emulation: eglMakeCurrent: 0xd601a300: ver 2 0 (tinfo 0xd600f8a0)
+08-18 12:00:08.564 12416 12416 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+08-18 12:00:08.603  8761  8761 I Conv2QueryExtension: Current locale: en_US, config allows these locales: de,en,fr,it,es,pt
+08-18 12:00:08.604  8761 12563 I KeyboardGroupDefParser: parseKeyboardGroupDef() 2131296529 -> extension_emoticon_keyboards : WaitTime = 8 ms : RunTime = 370 ms
+08-18 12:00:08.605  8761  8761 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.example.voiceassistant] not in whitelist
+08-18 12:00:08.605  8761  8761 I Conv2QueryExtension: onActivate() : Disabled by unsupported host app
+08-18 12:00:08.618  8761 12565 I KeyboardGroupDefParser: parseKeyboardGroupDef() 2131296524 -> extension_emoji_search_keyboards : WaitTime = 120 ms : RunTime = 268 ms
+08-18 12:00:08.636  1801  1801 W audio_hw_generic: Not supplying enough data to HAL, expected position 1519076 , only wrote 1518978
+08-18 12:00:08.683 12416 12416 I AssistStructure: Flattened final assist data: 2464 bytes, containing 1 windows, 16 views
+08-18 12:00:08.790 12416 12416 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231149/com.example.voiceassistant:id/voice_input_button>
+08-18 12:00:08.814 12416 12518 I URLFetcher: Finished downloading URL http://api.wolframalpha.com/v2/query?appid=YJTLQ5-QY5J6WW488&input=How+big+is+the+universe%3F&format=plaintext&async=false&reinterpret=true. Elapsed millis: 2921
+08-18 12:00:08.832  8761  8773 I putmethod.lati: Background young concurrent copying GC freed 52286(2442KB) AllocSpace objects, 5(348KB) LOS objects, 27% free, 5684KB/7830KB, paused 72.727ms total 583.234ms
+08-18 12:00:08.866 12416 12416 D MainActivity: FAB
+08-18 12:00:08.886  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1519333 , only wrote 1518978
+08-18 12:00:08.920  1836  1975 D AF::Track: interceptBuffer: took 218us to intercept 0 tracks
+08-18 12:00:08.952  8761  8875 I SuperDelight: SuperDelightBundledMetadataParser#parse(): manifest parsed with 0 packs
+08-18 12:00:08.978  8761 12567 I SuperDelight: SuperDelightManager#syncBundledLanguageModels(): Syncing for version 20190203
+08-18 12:00:08.996  8761  8875 I SuperDelight: BundledSlicing#getSlices() : Locale = [en_US]
+08-18 12:00:09.006  8761  8875 I SuperDelight: BundledSlicing#getSlices(): result {slices=[], last batch=true, sync metadata=false}
+08-18 12:00:09.008  8761  8875 I SP      : Syncing bundled_delight (20190203) with slices: [], metadata: false
+08-18 12:00:09.022  8761  8875 I SP      : Sync for bundled_delight succeeded in 39 ms: no changes
+08-18 12:00:09.075  8761  8761 I Choreographer: Skipped 218 frames!  The application may be doing too much work on its main thread.
+08-18 12:00:09.105 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@41aa58 in: PAUSED
+08-18 12:00:09.111  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.114  2079  4113 I chatty  : uid=1000(system) Binder:2079_1C identical 28 lines
+08-18 12:00:09.114  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.119 11002 11002 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@2b299f1
+08-18 12:00:09.122  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.122  2079  4113 I chatty  : uid=1000(system) Binder:2079_1C identical 8 lines
+08-18 12:00:09.122  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.128  9268  9268 W qja     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+08-18 12:00:09.174  8761 12495 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+08-18 12:00:09.175  8761 12495 W libc    : Unable to set property "qemu.gles" to "1": connection failed; errno=13 (Permission denied)
+08-18 12:00:09.211 11002 12108 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+08-18 12:00:09.259 11002 11192 W SearchServiceCore: Abort, client detached.
+08-18 12:00:09.163  8761  8761 W RenderThread: type=1400 audit(0.0:85): avc: denied { write } for name="property_service" dev="tmpfs" ino=7749 scontext=u:r:untrusted_app_27:s0:c128,c256,c512,c768 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=0
+08-18 12:00:09.320  8761 12495 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+08-18 12:00:09.326  8761 12495 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+08-18 12:00:09.337  8761 12495 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+08-18 12:00:09.358 11002 11002 I A       : Checking for device compliance...
+08-18 12:00:09.390  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.391  2079  4113 I chatty  : uid=1000(system) Binder:2079_1C identical 8 lines
+08-18 12:00:09.391  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.392  8761 12495 D HostConnection: HostConnection::get() New Host Connection established 0xd6054ef0, tid 12495
+08-18 12:00:09.392  8761 12495 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-18 12:00:09.393  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.396  2079  4113 I chatty  : uid=1000(system) Binder:2079_1C identical 38 lines
+08-18 12:00:09.396  2079  4113 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.398 11002 11002 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@8e8353d
+08-18 12:00:09.410  8761 12495 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-18 12:00:09.419  8761 12495 D eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 0 0
+08-18 12:00:09.419  8761 12495 D EGL_emulation: eglCreateContext: 0xd601aa80: maj 2 min 0 rcv 2
+08-18 12:00:09.430  9268 11216 W ProtoStoreBasedCache: cache is empty [CONTEXT service_id=257 ]
+08-18 12:00:09.460 11002 11002 I A       : Checking for device compliance...
+08-18 12:00:09.461  8761 12495 D EGL_emulation: eglMakeCurrent: 0xd601aa80: ver 2 0 (tinfo 0xd600ffa0)
+08-18 12:00:09.473  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9306112
+08-18 12:00:09.475  1682  1682 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+08-18 12:00:09.476  8761 12495 W Gralloc3: mapper 3.x is not supported
+08-18 12:00:09.481  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+08-18 12:00:09.481  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+08-18 12:00:09.508  8761 12495 D HostConnection: createUnique: call
+08-18 12:00:09.516  8761 12495 D HostConnection: HostConnection::get() New Host Connection established 0xd6055260, tid 12495
+08-18 12:00:09.526  8761 12495 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-18 12:00:09.530  8761 12495 D eglCodecCommon: allocate: Ask for block of size 0x1000
+08-18 12:00:09.530  8761 12495 D eglCodecCommon: allocate: ioctl allocate returned offset 0x3ff6c9000 size 0x2000
+08-18 12:00:09.542  2079  2091 I system_server: NativeAlloc concurrent copying GC freed 58770(3143KB) AllocSpace objects, 18(484KB) LOS objects, 30% free, 13MB/19MB, paused 1.168ms total 538.841ms
+08-18 12:00:09.546  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9306112
+08-18 12:00:09.548  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9306112
+08-18 12:00:09.559  8761 12495 D EGL_emulation: eglMakeCurrent: 0xd601aa80: ver 2 0 (tinfo 0xd600ffa0)
+08-18 12:00:09.562  2079  2952 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.562  2079  2952 I chatty  : uid=1000(system) Binder:2079_A identical 8 lines
+08-18 12:00:09.562  2079  2952 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:09.573 11002 11002 W Bundle  : Key android.speech.extra.LANGUAGE expected String but value was a java.util.Locale.  The default value <null> was returned.
+08-18 12:00:09.575  8761 12495 D eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 1 0
+08-18 12:00:09.577 12416 12448 I TestRunner: finished: testSendRecognizerIntent(com.example.voiceassistant.FourthLessonInstrumentedTest)

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="biz_500">#FFEB236B</color>
+    <color name="biz_700">#FFC31E63</color>
+    <color name="black_50">#FFf5f5f5</color>
+    <color name="black_700">#434343</color>
+    <color name="black_800">#262626</color>
+    <color name="black_900">#000000</color>
+    <color name="ic_launcher_logo_background">#3D45DC</color>
+    <color name="neo_300">#4bd09f</color>
+    <color name="neo_500">#FF00BA76</color>
+    <color name="pro_800">#FF0066FF</color>
+    <color name="pro_900">#FF2341E0</color>
+    <color name="top_300">#FF9866F9</color>
+    <color name="top_500">#FF5D00F5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_clear_title">Clear</string>
+    <string name="action_stop_title">Stop</string>
+    <string name="app_name">NetVoice</string>
+    <string name="error_do_not_understand">Sorry, I don\'t understand, can you rephrase?</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="error_tts_is_not_ready">TTS is not ready</string>
+    <string name="error_voice_recognition_unavailable">Voice recognition unavailable</string>
+    <string name="request_hint">What are you interested in?</string>
+    <style name="Theme.VoiceAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/pro_800</item>
+        <item name="colorPrimaryVariant">@color/pro_900</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/neo_300</item>
+        <item name="colorSecondaryVariant">@color/neo_500</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

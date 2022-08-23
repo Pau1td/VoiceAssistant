@@ -1,0 +1,209 @@
+08-18 12:00:03.298 12416 12448 I TestRunner: started: testReceiveActivityResult(com.example.voiceassistant.FourthLessonInstrumentedTest)
+08-18 12:00:03.301 12416 12448 W ActivityTestRule: getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+08-18 12:00:03.332  2079  2101 E system_server: Invalid ID 0x00000000.
+08-18 12:00:03.346  2079  3206 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:03.349  2079  3206 I chatty  : uid=1000(system) Binder:2079_13 identical 19 lines
+08-18 12:00:03.350  2079  3206 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:03.350 12416 12416 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@dbf31c2
+08-18 12:00:03.350  2079  3206 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:03.359  2079  3206 I chatty  : uid=1000(system) Binder:2079_13 identical 17 lines
+08-18 12:00:03.359  2079  3206 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:03.369  1845  2057 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 12:00:03.378  1845  2056 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 12:00:03.391  1815  1955 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:03.397 12416 12453 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+08-18 12:00:03.398 12416 12453 W libc    : Unable to set property "qemu.gles" to "1": connection failed; errno=13 (Permission denied)
+08-18 12:00:03.407 12416 12453 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+08-18 12:00:03.409 12416 12453 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+08-18 12:00:03.411 12416 12453 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+08-18 12:00:03.393 12416 12416 W RenderThread: type=1400 audit(0.0:84): avc: denied { write } for name="property_service" dev="tmpfs" ino=7749 scontext=u:r:untrusted_app:s0:c134,c256,c512,c768 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=0
+08-18 12:00:03.478  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+08-18 12:00:03.478  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+08-18 12:00:03.627 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@3b541c5 in: PRE_ON_CREATE
+08-18 12:00:03.718 12416 12416 W .voiceassistan: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+08-18 12:00:03.720 12416 12416 W .voiceassistan: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+08-18 12:00:03.752  2079  2101 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:03.753  2079  2101 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-18 12:00:03.753  2079  2101 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:04.104  2760  3294 D EGL_emulation: eglMakeCurrent: 0xd601a300: ver 2 0 (tinfo 0xd600f8a0)
+08-18 12:00:04.181 11002 12104 D EGL_emulation: eglMakeCurrent: 0xe9154940: ver 2 0 (tinfo 0xb44d2960)
+08-18 12:00:04.479  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+08-18 12:00:04.479  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+08-18 12:00:04.530 12416 12416 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+08-18 12:00:04.553 12416 12416 I TextToSpeech: Sucessfully bound to com.google.android.tts
+08-18 12:00:04.553 12416 12416 W TextToSpeech: setLanguage failed: not bound to TTS engine
+08-18 12:00:04.560 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@3b541c5 in: CREATED
+08-18 12:00:04.571 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@3b541c5 in: STARTED
+08-18 12:00:04.575 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@3b541c5 in: RESUMED
+08-18 12:00:04.584  1782  1782 D Zygote  : Forked child process 12457
+08-18 12:00:04.597 12457 12457 W gle.android.tt: Unexpected CPU variant for X86 using defaults: x86
+08-18 12:00:04.623 12457 12457 E gle.android.tt: Not starting debugger since process cannot load the jdwp agent.
+08-18 12:00:04.656 12457 12457 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-18 12:00:04.656 12457 12457 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+08-18 12:00:04.656 12457 12457 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-18 12:00:04.665 12457 12457 I gle.android.tt: The ClassLoaderContext is a special shared library.
+08-18 12:00:04.686 12416 12451 D HostConnection: HostConnection::get() New Host Connection established 0xd60562d0, tid 12451
+08-18 12:00:04.708 12457 12457 I MultiDex: VM with version 2.1.0 has multidex support
+08-18 12:00:04.708 12457 12457 I MultiDex: install
+08-18 12:00:04.709 12457 12457 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+08-18 12:00:04.717 12416 12451 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-18 12:00:04.728 12416 12451 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-18 12:00:04.740 12416 12451 D eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 0 0
+08-18 12:00:04.740 12416 12451 D EGL_emulation: eglCreateContext: 0xd601a300: maj 2 min 0 rcv 2
+08-18 12:00:04.745 12457 12457 I TTS.PattsJniLoader: Loading library tts_android
+08-18 12:00:04.789 12416 12451 D EGL_emulation: eglMakeCurrent: 0xd601a300: ver 2 0 (tinfo 0xd600f680)
+08-18 12:00:04.797  1815  1955 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:04.838  1682  1682 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+08-18 12:00:04.839 12416 12451 W Gralloc3: mapper 3.x is not supported
+08-18 12:00:04.840 12457 12457 I TTS.Analytics: Running on TYPE_PHONE
+08-18 12:00:04.843 12416 12451 D HostConnection: createUnique: call
+08-18 12:00:04.844 12416 12451 D HostConnection: HostConnection::get() New Host Connection established 0xd6056550, tid 12451
+08-18 12:00:04.845 12457 12457 W PrimesInit: Primes instant initialization
+08-18 12:00:04.846 12457 12483 W Primes  : background initialization
+08-18 12:00:04.886 12416 12451 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-18 12:00:04.887 12416 12451 D eglCodecCommon: allocate: Ask for block of size 0x1000
+08-18 12:00:04.887 12416 12451 D eglCodecCommon: allocate: ioctl allocate returned offset 0x3ff6cb000 size 0x2000
+08-18 12:00:04.890  1815  1955 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:04.896  1815  1955 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:04.934 12416 12451 D EGL_emulation: eglMakeCurrent: 0xd601a300: ver 2 0 (tinfo 0xd600f680)
+08-18 12:00:04.947 12457 12483 I PrimesTesting: GserviceFlagsSupplier.get()
+08-18 12:00:04.948 12416 12451 D eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 1 0
+08-18 12:00:04.959 12457 12457 I TTS.VoiceGenerator: Cache cleared
+08-18 12:00:04.982 12457 12457 I TTS.GoogleTTSService: Creating Google TTS service, version 3.17.5.247520352
+08-18 12:00:05.024  2079  2105 I ActivityTaskManager: Displayed com.example.voiceassistant/.MainActivity: +1s713ms
+08-18 12:00:05.093 12416 12416 I AssistStructure: Flattened final assist data: 2464 bytes, containing 1 windows, 16 views
+08-18 12:00:05.153  9268  9268 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=18692 trafficStatsUid=-1
+08-18 12:00:05.176 12416 12416 I TextToSpeech: Connected to ComponentInfo{com.google.android.tts/com.google.android.tts.service.GoogleTTSService}
+08-18 12:00:05.192 11002 12115 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+08-18 12:00:05.233 12457 12477 I TTS.GoogleTTSServiceImp: For default lang en-us is name en-US-language (en-us-x-sfg-server)
+08-18 12:00:05.234 12416 12448 D EventInjectionStrategy: Creating injection strategy with input manager.
+08-18 12:00:05.234 12416 12448 W .voiceassistan: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+08-18 12:00:05.235 12416 12448 W .voiceassistan: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+08-18 12:00:05.237 12416 12448 W .voiceassistan: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+08-18 12:00:05.237 12416 12470 I TextToSpeech: Set up connection to ComponentInfo{com.google.android.tts/com.google.android.tts.service.GoogleTTSService}
+08-18 12:00:05.255  8761  8761 I KeyboardViewUtil: systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-18 12:00:05.270 11002 11192 I A       : getLocaleToModelSpecsMap
+08-18 12:00:05.270 11002 11192 I A       : Using proto config with mendel
+08-18 12:00:05.272 11002 11192 I A       : getLocaleToModelSpecsMap
+08-18 12:00:05.272 11002 11192 I A       : Using proto config with mendel
+08-18 12:00:05.272 11002 11192 W SearchServiceCore: Abort, client detached.
+08-18 12:00:05.273  8761  8761 I AndroidIME: PasswordIme.onActivate() : EditorInfo = Package = com.google.android.apps.nexuslauncher : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+08-18 12:00:05.280 12416 12448 W .voiceassistan: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+08-18 12:00:05.289 11002 11192 I MicroDetectionState: (REDACTED) Should stop hotword detection immediately - %b
+08-18 12:00:05.289 11002 11192 I A       : getLocaleToModelSpecsMap
+08-18 12:00:05.289 11002 11192 I A       : Using proto config with mendel
+08-18 12:00:05.290 11002 11192 I A       : getLocaleToModelSpecsMap
+08-18 12:00:05.290 11002 11192 I A       : Using proto config with mendel
+08-18 12:00:05.312 12416 12416 W .voiceassistan: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+08-18 12:00:05.312 12416 12416 W .voiceassistan: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+08-18 12:00:05.312 12416 12416 W .voiceassistan: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+08-18 12:00:05.313 12416 12448 W .voiceassistan: Accessing hidden method Lsun/misc/Unsafe;->getUnsafe()Lsun/misc/Unsafe; (greylist,core-platform-api, linking, allowed)
+08-18 12:00:05.313 12416 12448 W .voiceassistan: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+08-18 12:00:05.313 12416 12448 W .voiceassistan: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+08-18 12:00:05.317 12416 12448 W .voiceassistan: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+08-18 12:00:05.318 12416 12448 W .voiceassistan: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+08-18 12:00:05.319 12416 12416 W .voiceassistan: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+08-18 12:00:05.320 12416 12416 W .voiceassistan: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+08-18 12:00:05.320 12416 12416 W .voiceassistan: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+08-18 12:00:05.346 12416 12416 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231149/com.example.voiceassistant:id/voice_input_button>
+08-18 12:00:05.346  8761  8761 I Conv2QueryExtension: Current locale: en_US, config allows these locales: de,en,fr,it,es,pt
+08-18 12:00:05.347  8761  8761 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.google.android.apps.nexuslauncher] not in whitelist
+08-18 12:00:05.347  8761  8761 I Conv2QueryExtension: onActivate() : Disabled by unsupported host app
+08-18 12:00:05.409  1845  2714 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 12:00:05.411  1845  2714 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 12:00:05.420 12416 12416 D MainActivity: FAB
+08-18 12:00:05.430  1782  1782 D Zygote  : Forked child process 12496
+08-18 12:00:05.453  2259  2539 D EGL_emulation: eglMakeCurrent: 0xd601a8a0: ver 2 0 (tinfo 0xd600f650)
+08-18 12:00:05.466  8761  8761 I PhenotypeExpConfig: refreshConfiguration() : Force = false : UpdateAvailable = true : Age = 87 minutes : MaxAge = 720 minutes
+08-18 12:00:05.467  8761  8761 I AndroidIME: PasswordIme.onDeactivate()
+08-18 12:00:05.475 12416 12416 I MonitoringInstr: Stubbing intent Intent { act=android.speech.action.RECOGNIZE_SPEECH (has extras) }
+08-18 12:00:05.476  9268  9268 W qja     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+08-18 12:00:05.479  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+08-18 12:00:05.479  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+08-18 12:00:05.486  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1384838 , only wrote 1384795
+08-18 12:00:05.559  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1388004 , only wrote 1387439
+08-18 12:00:05.559  1801 11582 W audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 661 frames
+08-18 12:00:05.565  8761  8761 I NoticeManager: Posting notice [import_user_contacts] to default priority queue
+08-18 12:00:05.572 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@3b541c5 in: PAUSED
+08-18 12:00:05.572 12496 12496 W .android.gms.u: Unexpected CPU variant for X86 using defaults: x86
+08-18 12:00:05.575  1801 11582 W audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 661 frames
+08-18 12:00:05.596  1801 11582 W audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 661 frames
+08-18 12:00:05.596  1836  1975 D AudioFlinger: mixer(0xf10a0100) throttle end: throttle time(10)
+08-18 12:00:05.605 12496 12496 E .android.gms.u: Not starting debugger since process cannot load the jdwp agent.
+08-18 12:00:05.734 12496 12496 I .android.gms.u: The ClassLoaderContext is a special shared library.
+08-18 12:00:05.750 12496 12496 I chatty  : uid=10098 com.google.android.gms.ui identical 1 line
+08-18 12:00:05.751 12496 12496 I .android.gms.u: The ClassLoaderContext is a special shared library.
+08-18 12:00:05.791 12496 12496 W .android.gms.u: JIT profile information will not be recorded: profile file does not exits.
+08-18 12:00:05.791 12496 12496 W .android.gms.u: JIT profile information will not be recorded: profile file does not exits.
+08-18 12:00:05.848  8761  8773 I putmethod.lati: Background young concurrent copying GC freed 19385(1003KB) AllocSpace objects, 0(0B) LOS objects, 9% free, 4053KB/4460KB, paused 13.493ms total 177.073ms
+08-18 12:00:05.848  8761  8773 W putmethod.lati: Reducing the number of considered missed Gc histogram windows from 264 to 100
+08-18 12:00:05.860 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@3b541c5 in: RESUMED
+08-18 12:00:05.894 12416 12518 I URLFetcher: Downloading url http://api.wolframalpha.com/v2/query?appid=YJTLQ5-QY5J6WW488&input=How+big+is+the+universe%3F&format=plaintext&async=false&reinterpret=true
+08-18 12:00:05.894 12416 12416 W IInputConnectionWrapper: getTextBeforeCursor on inactive InputConnection
+08-18 12:00:05.907 12416 12416 I AssistStructure: Flattened final assist data: 2560 bytes, containing 1 windows, 16 views
+08-18 12:00:05.931  8761  8761 W GInputConnectionWrapper: IPC IC_GET_TEXT_BEFORE_CURSOR_AND_FIX_SELECTION_INDICES took 358 ms
+08-18 12:00:05.952 12416 12416 W IInputConnectionWrapper: getSelectedText on inactive InputConnection
+08-18 12:00:05.957 12416 12416 W IInputConnectionWrapper: getTextAfterCursor on inactive InputConnection
+08-18 12:00:05.959  8761  8761 I KeyboardViewUtil: systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-18 12:00:05.963  8761  8761 I LatinIme: initialize() : Language = en-US
+08-18 12:00:05.982  8761  8761 I Delight5Facilitator: initializeForIme() : Locale = [en_US]
+08-18 12:00:05.982  8761  8761 I Delight5Facilitator: resetDecoder() : Locale = [en_US]
+08-18 12:00:06.162 12416 12416 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "How big is the universe?"}' assertion on view view.getId() is <2131231110/com.example.voiceassistant:id/text_input_edit>
+08-18 12:00:06.172  2079  2095 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:06.172  2079  2095 I chatty  : uid=1000(system) Binder:2079_1 identical 8 lines
+08-18 12:00:06.172  2079  2095 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:06.186 12416 12416 W .voiceassistan: Accessing hidden field Landroid/app/Activity;->mResultCode:I (greylist, reflection, allowed)
+08-18 12:00:06.186 12416 12416 W .voiceassistan: Accessing hidden field Landroid/app/Activity;->mResultData:Landroid/content/Intent; (greylist, reflection, allowed)
+08-18 12:00:06.196 12416 12416 D LifecycleMonitor: Lifecycle status change: com.example.voiceassistant.MainActivity@3b541c5 in: PAUSED
+08-18 12:00:06.202 11761 11761 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:com.google.android.mdd.service.START cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+08-18 12:00:06.202 11761 11761 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START dat=chimera-action:com.google.android.mdd.service.START cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+08-18 12:00:06.203  2079  3206 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:06.203  2079  3206 I chatty  : uid=1000(system) Binder:2079_13 identical 8 lines
+08-18 12:00:06.203  2079  3206 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:06.294  8761  8773 I putmethod.lati: Background concurrent copying GC freed 10018(402KB) AllocSpace objects, 2(104KB) LOS objects, 49% free, 3915KB/7830KB, paused 9.988ms total 440.549ms
+08-18 12:00:06.299 12496 12496 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+08-18 12:00:06.307 12496 12496 I DynamiteModule: Considering local module com.google.android.gms.providerinstaller.dynamite:1 and remote module com.google.android.gms.providerinstaller.dynamite:0
+08-18 12:00:06.307 12496 12496 I DynamiteModule: Selected local version of com.google.android.gms.providerinstaller.dynamite
+08-18 12:00:06.338  1815  1955 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:06.371  9268  9280 I .gms.persisten: Background young concurrent copying GC freed 41644(3411KB) AllocSpace objects, 41(1900KB) LOS objects, 33% free, 10MB/15MB, paused 863us total 278.500ms
+08-18 12:00:06.402  1815  1955 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:06.436  1815  1955 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:06.448  2760  3294 D EGL_emulation: eglMakeCurrent: 0xd601a300: ver 2 0 (tinfo 0xd600f8a0)
+08-18 12:00:06.455 11002 12104 D EGL_emulation: eglMakeCurrent: 0xe9154940: ver 2 0 (tinfo 0xb44d2960)
+08-18 12:00:06.471  1815  1847 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:06.481  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+08-18 12:00:06.481  1814  2550 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+08-18 12:00:06.483 12496 12496 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 295 native methods...
+08-18 12:00:06.489  8761  8761 I EmptyLayoutProvider: getFakeKeyboardLayout() : Computing new layout
+08-18 12:00:06.508  1815  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:06.549  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+08-18 12:00:06.579  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1432421 , only wrote 1432387
+08-18 12:00:06.581  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1432506 , only wrote 1432387
+08-18 12:00:06.598  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1433116 , only wrote 1433048
+08-18 12:00:06.649 12496 12496 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-18 12:00:06.649  2079  2101 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:06.649  2079  2101 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-18 12:00:06.650  2079  2101 W InputReader: Device has associated, but no associated display id.
+08-18 12:00:06.670  8761 12529 I MainLoader: Running LM loader for [en_US]
+08-18 12:00:06.670  8761 12529 I SuperDelight: SuperDelightLanguageModelProvider#fetchLanguageModel(): 1 locales
+08-18 12:00:06.671  8761 12529 I SuperDelight: syncBundledLanguageModels(): clearing bundled_delight selection
+08-18 12:00:06.676 12496 12496 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+08-18 12:00:06.686  1845  1898 D PermissionCache: checking android.permission.READ_FRAME_BUFFER for uid=1000 => granted (15626 us)
+08-18 12:00:06.688  1815 12527 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 6139904
+08-18 12:00:06.711  8761  8761 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.example.voiceassistant : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+08-18 12:00:06.817  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1442703 , only wrote 1442302
+08-18 12:00:06.818  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1442334 , only wrote 1442302
+08-18 12:00:06.835 11002 11192 I A       : getLocaleToModelSpecsMap
+08-18 12:00:06.835 11002 11192 I A       : Using proto config with mendel
+08-18 12:00:06.837  1801 11582 W audio_hw_generic: Not supplying enough data to HAL, expected position 1443144 , only wrote 1442963
+08-18 12:00:06.847 11002 11192 W A       : (REDACTED) Queue length for executor %s is now %d. Perhaps some tasks are too long, or the pool is too small.
+08-18 12:00:06.892  1845  1898 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10090 pid=2760
+08-18 12:00:06.893  1845  1898 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10090 => denied (447 us)
+08-18 12:00:06.925  8761 12532 W TaskSpec: Initial retry millis (30000) must be at least 30 seconds, set as 30 seconds.
+08-18 12:00:06.928  8761 12533 I SuperDelight: initializeBundledDelightSuperpacks()
+08-18 12:00:06.930  8761 12532 I FirebaseJobDispatcher: Cancel task: DlamTrainingTask. Success.
+08-18 12:00:06.947  2760  2772 I s.nexuslaunche: NativeAlloc concurrent copying GC freed 4192(318KB) AllocSpace objects, 2(116KB) LOS objects, 49% free, 2815KB/5631KB, paused 8.244ms total 69.091ms
+08-18 12:00:06.978 12457 12471 I gle.android.tt: Background young concurrent copying GC freed 29782(4539KB) AllocSpace objects, 5(128KB) LOS objects, 79% free, 1608KB/7752KB, paused 2.018ms total 380ms
+08-18 12:00:06.990 12416 12416 W IInputConnectionWrapper: beginBatchEdit on inactive InputConnection
+08-18 12:00:06.995 12416 12416 W IInputConnectionWrapper: endBatchEdit on inactive InputConnection
+08-18 12:00:07.027 12416 12448 I TestRunner: finished: testReceiveActivityResult(com.example.voiceassistant.FourthLessonInstrumentedTest)

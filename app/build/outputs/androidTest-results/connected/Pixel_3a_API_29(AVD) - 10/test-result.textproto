@@ -1,0 +1,129 @@
+# 2022-08-18T12:00:15.568Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 2
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "FourthLessonInstrumentedTest"
+    test_package: "com.example.voiceassistant"
+    test_method: "testReceiveActivityResult"
+    start_time {
+      seconds: 1660824003
+      nanos: 704000000
+    }
+    end_time {
+      seconds: 1660824007
+      nanos: 444000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\logcat-com.example.voiceassistant.FourthLessonInstrumentedTest-testReceiveActivityResult.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "FourthLessonInstrumentedTest"
+    test_package: "com.example.voiceassistant"
+    test_method: "testSendRecognizerIntent"
+    start_time {
+      seconds: 1660824007
+      nanos: 910000000
+    }
+    end_time {
+      seconds: 1660824009
+      nanos: 979000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\logcat-com.example.voiceassistant.FourthLessonInstrumentedTest-testSendRecognizerIntent.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\user\\AndroidStudioProjects\\VoiceAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_3a_API_29(AVD) - 10\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
+issue {
+  namespace {
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  severity: SEVERE
+  code: 1
+  name: "INSTRUMENTATION_FAILED"
+  message: "Test run failed to complete. Instrumentation run failed due to Process crashed."
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.voiceassistant.FourthLessonInstrumentedTest" tests="2" failures="0" errors="0" skipped="0" time="11.743" timestamp="2022-08-18T12:00:15" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_3a_API_29(AVD) - 10" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testReceiveActivityResult" classname="com.example.voiceassistant.FourthLessonInstrumentedTest" time="3.691" />
+  <testcase name="testSendRecognizerIntent" classname="com.example.voiceassistant.FourthLessonInstrumentedTest" time="2.069" />
+</testsuite>
